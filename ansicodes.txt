@@ -1,0 +1,11 @@
+!! PREFIX ALL SEQUENCES WITH AN ESCAPE CHARACTER !!
+
+[30m - Black text
+[31m - Red text
+[32m - Green text
+[33m - Yellow text
+[34m - Blue text
+[35m - Magenta text
+[36m - Cyan text
+[37m - White text
+[3m - text
